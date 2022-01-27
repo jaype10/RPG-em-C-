@@ -1,0 +1,15 @@
+C:\Users\jaype\Documents\Digital Innovation One\c#\jogo de RPG\jogoRPG\bin\Debug\net6.0\jogoRPG.exe
+C:\Users\jaype\Documents\Digital Innovation One\c#\jogo de RPG\jogoRPG\bin\Debug\net6.0\jogoRPG.deps.json
+C:\Users\jaype\Documents\Digital Innovation One\c#\jogo de RPG\jogoRPG\bin\Debug\net6.0\jogoRPG.runtimeconfig.json
+C:\Users\jaype\Documents\Digital Innovation One\c#\jogo de RPG\jogoRPG\bin\Debug\net6.0\jogoRPG.dll
+C:\Users\jaype\Documents\Digital Innovation One\c#\jogo de RPG\jogoRPG\bin\Debug\net6.0\ref\jogoRPG.dll
+C:\Users\jaype\Documents\Digital Innovation One\c#\jogo de RPG\jogoRPG\bin\Debug\net6.0\jogoRPG.pdb
+C:\Users\jaype\Documents\Digital Innovation One\c#\jogo de RPG\jogoRPG\obj\Debug\net6.0\jogoRPG.csproj.AssemblyReference.cache
+C:\Users\jaype\Documents\Digital Innovation One\c#\jogo de RPG\jogoRPG\obj\Debug\net6.0\jogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaype\Documents\Digital Innovation One\c#\jogo de RPG\jogoRPG\obj\Debug\net6.0\jogoRPG.AssemblyInfoInputs.cache
+C:\Users\jaype\Documents\Digital Innovation One\c#\jogo de RPG\jogoRPG\obj\Debug\net6.0\jogoRPG.AssemblyInfo.cs
+C:\Users\jaype\Documents\Digital Innovation One\c#\jogo de RPG\jogoRPG\obj\Debug\net6.0\jogoRPG.csproj.CoreCompileInputs.cache
+C:\Users\jaype\Documents\Digital Innovation One\c#\jogo de RPG\jogoRPG\obj\Debug\net6.0\jogoRPG.dll
+C:\Users\jaype\Documents\Digital Innovation One\c#\jogo de RPG\jogoRPG\obj\Debug\net6.0\ref\jogoRPG.dll
+C:\Users\jaype\Documents\Digital Innovation One\c#\jogo de RPG\jogoRPG\obj\Debug\net6.0\jogoRPG.pdb
+C:\Users\jaype\Documents\Digital Innovation One\c#\jogo de RPG\jogoRPG\obj\Debug\net6.0\jogoRPG.genruntimeconfig.cache
